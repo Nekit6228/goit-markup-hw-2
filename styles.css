@@ -1,0 +1,231 @@
+.div-logo{
+    width: Hug (115px)px;
+        height: Fixed (24px)px;
+        top: 24px;
+        left: 156px;
+        gap: 0px;
+        opacity: 0px;
+}
+.web-logo{
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #4D5AE5;
+}
+.studio-logo{
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+}
+.studio-list{
+    styleName: Body Medium;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+}
+.portfolio-list{
+    styleName: Body Medium;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+}
+.contacts-list{
+    styleName: Body Medium;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+}
+.mail-list{
+    styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #434455;
+}
+.tel-list{
+    styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #434455;
+}
+.effective-list{
+    styleName: Header 1;
+        font-family: Roboto;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #FFFFFF;
+}
+.button-list{
+    width: Hug (169px)px;
+        height: Hug (56px)px;
+        top: 428px;
+        left: 636px;
+        padding: 16px 32px 16px 32px;
+        gap: 10px;
+        border-radius: 4px 0px 0px 0px;
+        opacity: 0px;
+        background: #4D5AE5;
+        box-shadow: 0px 4px 4px 0px #00000026;
+}
+.ul-list .h3-list{
+    styleName: Header 3;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+}
+.ul-list .p3-list{
+    styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #434455;
+}
+.our-team{
+    styleName: Header 2;
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+}
+.ul-list2 .h3-list2{
+    styleName: Header 3;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+
+}
+.ul-list2 .p3-list2{
+    styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #434455;
+}
+.our-port{
+    styleName: Header 2;
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+}
+.ul-list3 .h2-list2{
+    styleName: Header 3;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+}
+.ul-list3 .p3-list3{
+    styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #434455;
+}
+.p10{
+    styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        font-family: Roboto;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+            background: #F4F4FD;
+}
