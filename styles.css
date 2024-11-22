@@ -1,0 +1,124 @@
+.web-logo{
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #4D5AE5;
+        width: 44px;
+            height: 21px;
+            gap: 0px;
+            opacity: 0px;
+}
+.studio-logo{
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+        width: 71px;
+            height: 21px;
+            gap: 0px;
+            opacity: 0px;
+}
+.div-logo{
+    width: Hug (261px)px;
+        height: Hug (24px)px;
+        top: 24px;
+        left: 347px;
+        gap: 40px;
+        opacity: 0px;
+}
+.studio-logo{
+    styleName: Body Medium;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+        width: 48px;
+            height: 24px;
+            gap: 0px;
+            opacity: 0px;
+}
+.portfolio-logo{
+    styleName: Body Medium;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+        width: 66px;
+            height: 24px;
+            gap: 0px;
+            opacity: 0px;
+}
+.contracts-logo{
+    styleName: Body Medium;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        background: #2E2F42;
+        width: 67px;
+            height: 24px;
+            gap: 0px;
+            opacity: 0px;
+}
+.address-logo{
+    width: 153px;
+        height: 24px;
+        top: 24px;
+        left: 940px;
+        gap: 0px;
+        opacity: 0px;
+        styleName: Body;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+            background: #434455;
+}
+.tel-logo{
+    width: 151px;
+        height: 24px;
+        top: 24px;
+        left: 1133px;
+        gap: 0px;
+        opacity: 0px;
+        styleName: Body;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+            background: #434455;
+}
+
+
