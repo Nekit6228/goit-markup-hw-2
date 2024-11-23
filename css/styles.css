@@ -15,4 +15,51 @@
  .studio-logo{
     color: #2e2f42;
  }
- 
+ .logo-list{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+ }
+ .logo-list:hover,
+ .logo-list:focus {
+    color: #404bbf;
+ }
+ .address-logo{
+    font-style: normal;
+ }
+ .address-list{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+ }
+ .address-list:focus,
+ .address-list:hover{
+    color:#404bbf
+ }
+ .section-1{
+    background-color: #2e2f42;
+ }
+ .h1-section1{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+ }
+ .button-1{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+ }
+.button-1:hover,
+.button-1:focus{
+    background-color: #404BBF
+}
