@@ -3,113 +3,133 @@
      color: #434455;
      background-color: #FFFFFF;
  }
- .logo{
-    font-family: "Raleway",sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+ body {
+     font-family: "Roboto", sans-serif;
+     color: #434455;
+     background-color: #FFFFFF;
  }
- .studio-logo{
-    color: #2e2f42;
+
+ .logo {
+     font-family: "Raleway", sans-serif;
+     font-weight: 700;
+     font-size: 18px;
+     line-height: 1.17;
+     letter-spacing: 0.03em;
+     text-transform: uppercase;
+     color: #4d5ae5;
  }
- .logo-list{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+
+ .studio-logo {
+     color: #2e2f42;
  }
+
+ .logo-list {
+     font-weight: 500;
+     font-size: 16px;
+     line-height: 1.5;
+     letter-spacing: 0.02em;
+     color: #2e2f42;
+ }
+
  .logo-list:hover,
  .logo-list:focus {
-    color: #404bbf;
+     color: #404bbf;
  }
- .address-logo{
-    font-style: normal;
+
+ .address-logo {
+     font-style: normal;
  }
- .address-list{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+
+ .address-list {
+     font-size: 16px;
+     line-height: 1.5;
+     letter-spacing: 0.02em;
+     color: #434455;
  }
+
  .address-list:focus,
- .address-list:hover{
-    color:#404bbf
+ .address-list:hover {
+     color: #404bbf;
  }
- .section-1{
-    background-color: #2e2f42;
+
+ .section-1 {
+     background-color: #2e2f42;
  }
- .h1-section1{
-    text-align: center;
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    color: #ffffff;
-    text-align: center
+
+ .h1-section1 {
+     font-size: 56px;
+     line-height: 1.07;
+     letter-spacing: 0.02em;
+     color: #ffffff;
  }
- .button-1{
-    font-size: 16px;
-        padding: 10px 20px;
-        background-color: #4d5ae5;
-        color: #ffffff;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-        text-align: center
+
+ .button-1 {
+     font-size: 16px;
+     background-color: #4d5ae5;
+     color: #ffffff;
+     border: none;
+     cursor: pointer;
+    
  }
-.button-1:hover,
-.button-1:focus{
-    background-color: #404BBF
-}
-.h3-list{
-    font-weight: 500;
-    font-size: 20px;;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.p-list{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.section-2{
-    background-color: #F4F4FD
-}
-.our-team{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-}
-.section-3{
-    background-color: #FFFFFF
-}
-.h3-list2{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.p-list2{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.footer{
-    background-color: #2e2f42;
-}
-.p-footer{
-    line-height: 1.5;
-    color: #F4F4FD;
-    letter-spacing: 0.02em
-}
-        
+
+ .button-1:hover,
+ .button-1:focus {
+     background-color: #404BBF;
+ }
+
+ .h3-list {
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 1.2;
+     letter-spacing: 0.02em;
+     color: #2e2f42;
+ }
+
+ .p-list {
+     font-size: 16px;
+     line-height: 1.5;
+     letter-spacing: 0.02em;
+     color: #434455;
+ }
+
+ .section-2 {
+     background-color: #F4F4FD;
+ }
+
+ .our-team {
+     font-size: 36px;
+     line-height: 1.11;
+     text-align: center;
+     letter-spacing: 0.02em;
+     text-transform: capitalize;
+     color: #2e2f42;
+ }
+
+ .section-3 {
+     background-color: #FFFFFF;
+ }
+
+ .h3-list2 {
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 1.2;
+     letter-spacing: 0.02em;
+     color: #2e2f42;
+ }
+
+ .p-list2 {
+     font-size: 16px;
+     line-height: 1.5;
+     letter-spacing: 0.02em;
+     color: #434455;
+ }
+
+ .footer {
+     background-color: #2e2f42;
+ }
+
+ .p-footer {
+     line-height: 1.5;
+     color: #F4F4FD;
+     letter-spacing: 0.02em;
+ }
