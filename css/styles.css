@@ -59,11 +59,10 @@
  .address-list1,
  .address-list2 {
      color: #404bbf;
-
+ }
      .section-1 {
          background-color: #2e2f42;
      }
-
      .features {
          font-size: 56px;
          line-height: 1.07;
@@ -158,12 +157,7 @@
          color: #434455;
      }
      .p4{
-            font-family: "Roboto", sans-serif;
-            font-size: 16px;
-            font-weight: 400;
-            line-height: 24px;
+            line-height: 1.5;
+            color: #F4F4FD;
             letter-spacing: 0.02em;
-            text-align: left;
-            text-underline-position: from-font;
-            text-decoration-skip-ink: none;
      }
