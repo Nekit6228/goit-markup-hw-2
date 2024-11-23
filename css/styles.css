@@ -19,7 +19,6 @@
         text-transform: uppercase;
         color: #4d5ae5;
     }
-
     .logo-studio {
         color: #2e2f42;
     }
@@ -38,9 +37,10 @@
 
     .address-menu {
         font-style: normal;
+        
     }
 
-    .address-list,
+    .address-list1,
         .address-list2 {
         font-size: 16px;
         line-height: 1.5;
@@ -48,12 +48,13 @@
         color: #434455;
     }
 
-
-    .address-list:hover,
-    .address-list:focus {
+    .address-list1,.address-list2:hover{
         color: #404bbf;
     }
-
+   .address-list1,
+   .address-list2{
+    color: #404bbf;
+   
     .section-1 {
         background-color: #2e2f42;
     }
