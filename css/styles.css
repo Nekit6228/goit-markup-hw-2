@@ -40,6 +40,12 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.address-list2 {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
 .address-list:hover,
 .address-list:focus {
