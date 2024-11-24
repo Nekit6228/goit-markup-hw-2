@@ -29,14 +29,14 @@ body {
 .address-logo{
     font-style: normal;
 }
-.add-list{
+.address-list{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.add-list:hover,
-.add-list:focus{
+.address-list:hover,
+.address-list:focus{
     color: #404bbf;
 }
 
