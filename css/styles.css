@@ -15,3 +15,27 @@ body {
 .studio-logo{
     color: #2e2f42;
 }
+.logo-list{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.logo-list:hover,
+.logo-list:focus{
+    color: #404bbf;
+}
+.address-logo{
+    font-style: normal;
+}
+.add-list{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.add-list:hover,
+.add-list:focus{
+    color: #404bbf;
+}
