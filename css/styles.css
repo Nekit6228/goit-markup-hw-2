@@ -87,7 +87,7 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.style-back{
+.stylebackname{
     background-color: #FFFFFF;
 }
 .text-name{
@@ -137,7 +137,7 @@ body {
     color: #4d5ae5;
 }
 .studio-logo2{
-    color: #f4f4fd;
+    color: #f4f4fd
 }
 .text-footer{
     line-height: 1.5;
