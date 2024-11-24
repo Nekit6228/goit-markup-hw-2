@@ -39,17 +39,17 @@ body {
 .address-list:focus{
     color: #404bbf;
 }
-.section-list{
+.sectionlist{
     background-color: #2e2f42;
 }
-.effective-list{
+.effectivelist{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.button-list{
+.buttonlist{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -59,7 +59,7 @@ body {
     color: #ffffff;
     cursor: pointer;
 }
-.button-list:hover,
-.button-list:focus{
+.buttonlist:hover,
+.buttonlist:focus{
     background-color: #404BBF;
 }
