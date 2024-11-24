@@ -76,3 +76,17 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.section-too{
+    background-color: #F4F4FD;
+}
+.text-too{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.li-text{
+    background-color: #FFFFFF;
+}
