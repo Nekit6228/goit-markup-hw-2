@@ -39,17 +39,17 @@ body {
 .address-list:focus{
     color: #404bbf;
 }
-.section-button{
+.section-one{
     background-color: #2e2f42;
 }
-.effective{
+.effective-one{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff
 }
-.button{
+.button-one{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -59,7 +59,7 @@ body {
     color: #ffffff;
     cursor: pointer
 }
-.button:hover,
-.button:focus{
+.button-one:hover,
+.button-one:focus{
     background-color: #404BBF;
 }
