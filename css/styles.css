@@ -87,7 +87,7 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.stylebackname{
+.style-text{
     background-color: #FFFFFF;
 }
 .text-name{
@@ -124,10 +124,10 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.footerlogo{
+.footer-logo{
     background-color: #2e2f42;
 }
-.weblogolist{
+.web-footer{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -136,10 +136,10 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.studiologolist{
+.studio-footer{
     color: #f4f4fd
 }
-.textfooterlist{
+.text-footer{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
