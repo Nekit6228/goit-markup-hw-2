@@ -39,17 +39,17 @@ body {
 .address-list:focus{
     color: #404bbf;
 }
-.section-main{
+.section-1 {
     background-color: #2e2f42;
 }
-.effective-text{
+.effective {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.knopka-section1{
+.button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -59,7 +59,7 @@ body {
     color: #ffffff;
     cursor: pointer;
 }
-.knopka-section1:hover,
-.knopka-section1:focus{
+.button:hover,
+.button-section1:focus {
     background-color: #404BBF;
 }
