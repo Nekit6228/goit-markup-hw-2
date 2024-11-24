@@ -35,7 +35,17 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.add-list2 {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 .add-list:hover,
 .add-list:focus{
+    color: #404bbf;
+}
+.add-list2:hover,
+.add-list2:focus {
     color: #404bbf;
 }
